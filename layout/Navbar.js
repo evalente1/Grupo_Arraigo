@@ -174,8 +174,7 @@ const Navbar = () => {
 
   const height = 60;
   const width = height * 3.2;
-  const storeUrl =
-    "http://builder.ferozo.com/tienda---arraigo-ingenieria-de-proyectos";
+  const storeUrl = "https://builder.ferozo.com/tienda-arraigo-2";
   return (
     <>
       <Head>
