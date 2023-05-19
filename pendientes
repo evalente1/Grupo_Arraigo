@@ -1,0 +1,91 @@
+Método: 
+    Falta textos.
+
+Conocenos:
+    Falta texto
+
+Contacto
+    Email para configurarlo
+    Dirección del lugar.
+
+
+Industria:
+    Imagenes en blanco y negro
+    Acomodar texto al fondo.
+
+Hogar:
+    Textos.
+    Imágenes en blanco y negro.
+    Iconos correspondientes.
+General:
+    Dimensiones del isologo - mejor todavía iso logo en png  - svg o lo que sea.
+
+
+
+
+
+
+
+CAMBIOS DESDE ULTIMA VERSION:
+    Todas:
+        cambiar logo de heros
+        responsive en navbar
+        responsive en footer
+        Navbar = siempre fijo, cambia de color y fondo con scroll
+
+    Home Page:
+        Cambiar imágenes blanco y negro.
+    Método:
+        Texto modificado.
+    Nosotros:
+        Texto modificado    
+    Contacto:
+        Color de fondo igual al resto del sitio.
+        Configurar email para formulario.
+
+    Industria
+        cambiar imágenes a BN
+    Hogar
+        cambiar imágenes a BN
+
+
+PENDIENTE PEDRO:
+    Terminar de acomodar responsive en:
+        Inicio
+        Hogar e industria, acomodar tabs
+
+PENDIENTE GODI / EQUI / DISEÑADOR
+    Página de inicio
+        Texto de Hero.
+        Texto de última sección.
+        Saber que filtro va (color y opacidad)
+    Contacto:
+        Dirección del lugar.
+
+    Industria:
+        Fotos e imágenes que van despues de los servicios.
+    
+    Hogar
+        Imágenes de los servicios
+        Íconos de los servicios.
+        Descripcion de los servicios
+        Fotos e imágenes que van despues de los servicios.
+
+    Método: 
+        Nada pendiente.
+    Nosotros: 
+        Nada pendiente.
+
+    
+
+
+General
+-DONE Achicar un 20% isologo y altura del nav cuando queda solo al scrolear. Cuando esta flotante con la tipografia esta bien (queda asi) 
+- DONE Cambiar color de texto de link activo (el bordo oscuro que esta no se ve bien, se pierde). Ver bordo mas clarito, o dejar en blanco y solo cambiar color cuando se pasa por arriba
+- DONE Contorno de isologo en las imagenes (hero) mas arriba (ver diferencia con mockup)
+
+
+Hogar, Industria
+-  DONE Titulo de fondo en texto de servicios, bien pegado a la parte de abajo
+- DONE Imagenes y textos servicios: en Drive (https://drive.google.com/drive/folders/1juPRIAAkWnZ2q-Up5rv_Irnujx3phRb6?usp=sharing). Faltan textos de 4 servicios
+- Pag carga lento (imagenes)
