@@ -88,7 +88,7 @@ const Component = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                San Lorenzo 1047 1 A, Rosario, Santa Fe Prueba{" "}
+                San Lorenzo 1047 1 A, Rosario, Santa Fe{" "}
               </a>
             </li>
             <li>
